@@ -12,6 +12,7 @@
  * [MEAN](notesdecours/mean.md)
  * [TypeScript](notesdecours/typescript.md)
  * [Angular](notesdecours/angular/1-angular.md)
+   * [Introduction à Tailwind CSS](notesdecours/angular/0-tailwind.md)
    * [Composants ancien](notesdecours/angular/2-component-classique.md)
    * [Composants nouveau](notesdecours/angular/2-component-moderne.md)
    * [Formulaires](notesdecours/angular/3-forms.md)

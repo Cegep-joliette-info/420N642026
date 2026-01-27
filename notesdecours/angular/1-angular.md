@@ -62,6 +62,30 @@ Respecter le LIFT, votre application doit être conçu de manière à:
 
 ## Installation
 
+### Préparation de npm sur les mac du cégep
+
+Sur les mac du cégep, il faut changer le chemin d'installation de npm. Exécutez la commande suivante dans la console:
+
+```
+mkdir ~/.npm-global
+npm config set prefix '~/.npm-global'
+nano ~/.zshrc
+```
+
+Dans le fichier ajoutez la ligne suivante à la fin du fichier:
+
+```
+export PATH="$HOME/.npm-global/bin:$PATH"
+```
+
+Puis exécutez la commande suivante pour appliquer le changement:
+
+```
+source ~/.zshrc
+```
+
+### Installation d'Angular CLI
+
 Assurez vous d'avoir Node.js avec npm d'installé. Pour valider, écrivez la commande suivante dans la console:
 
 ```
