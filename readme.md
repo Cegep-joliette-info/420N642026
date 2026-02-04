@@ -29,3 +29,5 @@
    * [Swagger](notesdecours/nestjs/swagger.md)
    * [PostgreSQL](notesdecours/nestjs/postgresql.md)
    * [Authentification](notesdecours/nestjs/authentification.md)
+ * AI
+   * [Structure d'un prompt](notesdecours/ai/exemple.md)
