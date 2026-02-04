@@ -5,7 +5,7 @@
 ## Documents
 
   * [Plan de cours](420N64PG.H2026.pdf)
-  * [Examen - Version préliminaire](examen-beta.md)
+  * [Examen/atelier](atelier.md)
 
 
 ## Notes de cours
