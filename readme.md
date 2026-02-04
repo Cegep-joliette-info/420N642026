@@ -6,6 +6,7 @@
 
   * [Plan de cours](420N64PG.H2026.pdf)
   * [Examen/atelier](atelier.md)
+  * [Demo cours]{https://github.com/Padreik/demo-mean}
 
 
 ## Notes de cours
