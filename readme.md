@@ -33,3 +33,7 @@
    * [Structure d'un prompt](notesdecours/autre/exemple.md)
    * [Comment faire un bon prompt](notesdecours/autre/prompt.md)
    * [Git](notesdecours/autre/git.md)
+
+## Évaluations
+
+ * [Projet](projet/enonce.md)
