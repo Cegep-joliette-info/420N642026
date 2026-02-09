@@ -83,3 +83,49 @@ La correction doit être détaillée dans un fichier (md ou autre) sur votre Git
  * Qui est responsable (nom, ou "responsabilité d'équipe")
  * Fichier précis, ou groupe de fichiers (exemple: dans tous les composants Angular)
  * Explication de ce qui a été fait ou de ce qui doit être fait
+
+## Grille de correction, remises 1 et 2
+
+Compte pour 5\% et 10\% de votre session.
+
+| Critère | Excellent | Bon | À améliorer | Problématique |
+| ------- | --------- | --- | ----------- | ------------- |
+| Tâches | Déployées, fonctionnelles, sans bug, client content<br>10 | Déployées, fonctionnelles, client content<br>8 | Déployées, fonctionnelles, bug mineur<br>4 | Non déployée ou non fonctionnelle<br>0 |
+| Code | Structure et normes respectés<br>10 | Bonne structure mais quelques erreurs de normes<br>7 | Une erreur de structure<br>4 | Structure et normes problématiques<br>0 |
+
+## Grille de correction, remise 3
+
+Compte pour 35\% de votre session.
+
+| Critère | Excellent | Bon | À améliorer | Problématique |
+| ------- | --------- | --- | ----------- | ------------- |
+| Tâches | Déployées, fonctionnelles, sans bug<br>25 | Déployées, fonctionnelles, bug mineur<br>20 | Déployées, fonctionnelles, bug majeur<br>10 | Non déployée ou non fonctionnelle<br>0 |
+| Utilisation de Git | Bons archivages, pull request et branches<br>15 | Quelques mals nommés<br>12 | Plusieurs problèmes<br>5 | Peu d'archivages par remise<br>0 |
+| Respect des normes de programmations | Normes respectés<br>5 | Quelques erreurs<br>3 | N.D. | Erreurs courantes<br>0 |
+| Apparence et ergonomie | Interface professionnelle*<br>5 | Problème mineur<br>3 | Problème majeur<br>1 | Interface différente du thème ou non-professionnelle<br>0 |
+| Sécurité | Pas de faille<br>15 | Faille mineure, sans danger<br>10 | Faille mineure, danger temporaire ou isolé<br>5 | Une faille<br>0 |
+| Structure de l'application | MEAN respecté<br>10 | 1 ou 2 fichier mal positionné<br>5 | N.D. | Structure non-respectée<br>0 |
+| Performance | Échanges clients/serveur/BD limités<br>5 | Pas d'ajout de performance<br>3 | N.D. | Perte de performance visible<br>0 |
+| AI | Prompt claire, efficace et commenté<br>10 | Prompt peu clair, peu efficace ou pas commenté<br>6 | Prompt peu clair, peu efficace et pas commenté<br>3 | Prompt problématique ou pas de prompt<br>0 |
+| Présentation | Présentation claire, professionnelle et complète<br>10 | Présentation claire et professionnelle<br>7 | Présentation peu claire ou peu professionnelle<br>4 | Présentation problématique ou absente<br>0 |
+
+ * Interface professionnelle: Bonne utiisation du CSS (avec ou sans cadre CSS), l'utilisateur ne cherche pas les fonctionnalités, A11Y pour les personnes voyantes, site réactif
+
+La note finale sera au pro-rata des tâches réalisés.
+
+### Présentation
+
+Vous devrez présenter votre projet à la classe, les fonctionnalités ainsi qu'un aperçu du code. Plus de détail à venir.
+
+## Grille gestion de projet
+
+Cette évaluation compte pour 20\% de votre session.
+Sur les 3 sprints vous êtes évalués sur votre travail d'équipe, chaque sprint vaut un tier des points.
+
+| Critère | Excellent | À améliorer | Problématique |
+| ------- | --------- | ----------- | ------------- |
+| Poker Planning | Participe activement et de bonne foi<br>10 | Participe passivement <br>5 | Ne participe pas ou manque de rigueur<br>0 |
+| Daily scrum | Participe activement à chaque rencontre<br>5 | Manque 1 rencontre<br>3 | Manque plus de 1 rencontre<br>0 |
+| Professionnalisme | Respect, aide les autres si demandé, présent aux rencontres d'équipes autres que Scrum<br>5 | Respect, manque de présence dans l'équipe<br>2 | Manque de respect ou n'aide pas l'équipe<br>0 |
+
+Une évaluation des pairs m'aidera avec l'évaluation de ce critère.
