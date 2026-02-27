@@ -37,3 +37,5 @@
 ## Évaluations
 
  * [Projet](projet/enonce.md)
+ * [Oral d'équipe](projet/oral_equ.md)
+ * [Oral individuel](projet/oral_ind.md)
