@@ -2,6 +2,7 @@
 
 **Pondération :** 20% de la note finale
 **Durée :** Environ 10 minutes, 15 minutes maximum
+**Remise :** Sur Moodle, avant le lundi 16 mars 8h00
 
 ---
 

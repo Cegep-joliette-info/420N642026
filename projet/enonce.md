@@ -107,7 +107,6 @@ Compte pour 35\% de votre session.
 | Structure de l'application | MEAN respecté<br>10 | 1 ou 2 fichier mal positionné<br>5 | N.D. | Structure non-respectée<br>0 |
 | Performance | Échanges clients/serveur/BD limités<br>5 | Pas d'ajout de performance<br>3 | N.D. | Perte de performance visible<br>0 |
 | AI | Prompt claire, efficace et commenté<br>10 | Prompt peu clair, peu efficace ou pas commenté<br>6 | Prompt peu clair, peu efficace et pas commenté<br>3 | Prompt problématique ou pas de prompt<br>0 |
-| Présentation | Présentation claire, professionnelle et complète<br>10 | Présentation claire et professionnelle<br>7 | Présentation peu claire ou peu professionnelle<br>4 | Présentation problématique ou absente<br>0 |
 
  * Interface professionnelle: Bonne utiisation du CSS (avec ou sans cadre CSS), l'utilisateur ne cherche pas les fonctionnalités, A11Y pour les personnes voyantes, site réactif
 
